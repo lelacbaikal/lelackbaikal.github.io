@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0045)https://fr.wikipedia.org/wiki/Lac_Ba%C3%AFkal -->
 <html class="client-js ve-available" lang="fr" dir="ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <title>Lac Baïkal — Wikipédia</title>
@@ -303,31 +301,6 @@ body.rtl #cnotice-toggle-box {
     left: 65px;
 }
 </style>
-
-<div class="cnotice" id="Wiki_chez_nous">
-    <a class="cnotice-full-banner-click external" href="https://www.wikimedia.fr/lancement-de-loperation-wikicheznous/">
-        <div id="cnotice-main">
-            <div class="cnotice-logo-container">
-                <img src="./Lac Baïkal — Wikipédia_files/Wikimedia_France_logo_-_horizontal.svg" alt="Banner logo" width="130px" height="55px">
-            </div>
-            <div class="cnotice-message-container">
-                <div class="cnotice-message">
-                    <p>En confinement à cause du Covid-19 ? <br>Participez au concours #Wikicheznous sur Wikipédia et ses projets frères avec Wikimédia France.</p>
-                </div>
-            </div>
-            <div class="cnotice-misc-container">
-                <div class="cnotice-button cnotice-button1">En apprendre plus</div>
-            </div>
-        </div>
-    </a>
-    <div id="cnotice-toggle-box">
-        <div id="cnotice-toggle-icon" href="#" title="Réduire" onclick="mw.centralNotice.hideBanner();return false;"></div>
-    </div>
-</div></div><!-- CentralNotice --></div>
-	<div class="mw-indicators mw-body-content">
-<div id="mw-indicator-coordinates" class="mw-indicator"><span id="coordinates" class="noprint"><a class="mw-kartographer-maplink mw-kartographer-link" data-mw="interface" data-style="osm-intl" href="https://fr.wikipedia.org/wiki/Lac_Ba%C3%AFkal#/maplink/0" data-zoom="12" data-lat="53.5" data-lon="108" data-overlays="[&quot;_5aa90cdc000437c750f3e962df22b0881582526f&quot;]">53°&nbsp;30′&nbsp;00″&nbsp;nord, 108°&nbsp;00′&nbsp;00″&nbsp;est</a></span></div>
-</div>
-
 	<h1 id="firstHeading" class="firstHeading" lang="fr">Lac Baïkal</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
@@ -383,6 +356,12 @@ body.rtl #cnotice-toggle-box {
 <th scope="row">Type
 </th>
 <td>Lac d'eau douce
+</td>
+</tr>
+<tr>
+<th scope="row">Fun Fact
+</th>
+<td>Ce lac stock 80% des eaux douces de la planête (sous un forme que l'on ne precisera pas ici, ce qui fait que c'est bien Thomas Basilien qui gagne le paris contre Marin Toromanoff)
 </td>
 </tr>
 <tr>
